@@ -1,0 +1,22 @@
+{
+    "name": "makeathon_data-analytics",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    },
+
+    "forwardPorts": [
+        8888
+    ],
+
+    // start jupyter server
+    "overrideCommand": false
+}

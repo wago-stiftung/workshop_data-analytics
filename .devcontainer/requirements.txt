@@ -1,0 +1,10 @@
+# data analytics
+
+numpy
+pandas
+plotly
+matplotlib
+
+# pv
+pvlib
+atlite
