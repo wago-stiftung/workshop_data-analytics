@@ -3,6 +3,7 @@
 numpy
 pandas
 plotly
+geopandas
 matplotlib
 
 # pv
